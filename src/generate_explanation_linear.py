@@ -1,11 +1,4 @@
 
-
-
-
-
-# In[2]:
-
-
 import numpy as np
 import torch
 from sklearn.linear_model import LogisticRegression
